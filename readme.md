@@ -1,14 +1,23 @@
-# React To-Do App
+# Book Store React App
 
-This is a simple to-do list app built using React and Vite.
+This is a simple React application built using React and Redux Toolkit.
 
-Features:
-- Add tasks
-- Delete tasks
-- Edit tasks
-- Mark complete
+## Features
+- View list of books
+- Browse all books
+- Add new books
 
-How to run:
+## Technologies Used
+- React
+- Redux Toolkit
+- React Router DOM
+
+## How to Run the Project
+
+1. Open the project folder in VS Code
+2. Run the following commands in terminal:
 
 npm install
 npm run dev
+
+3. The app will run on localhost in the browser.
